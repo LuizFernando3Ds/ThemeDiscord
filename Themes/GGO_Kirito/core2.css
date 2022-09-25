@@ -26,7 +26,7 @@ The 2 items above are not owned by me, They go to there respected owners
     --transparency-5: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
 }
 
-/*--------------------------------------------------------*/
+/*--------------------------------------------d-----------*/
 	#app-mount {
 		background: var(--background-image);
 	}
@@ -612,7 +612,7 @@ The 2 items above are not owned by me, They go to there respected owners
 		margin: 0px;
 	}
 	#app-mount .typeWindows-2-g3UY:after {
-		content: "CloudStar_Zone| GTA:SA ©";
+		content: "CloudStar_Zone | GTA:SA ©";
 		color: rgb(255,255,255,0.5);
 		font-weight: 500;
 
